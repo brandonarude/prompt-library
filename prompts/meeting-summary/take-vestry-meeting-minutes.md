@@ -40,7 +40,7 @@ Additionally, at the end of the minutes, please make a special note of non-motio
 
 ## Variations
 
-- **Claude**: Can process audio files directly when provided. May output markdown; use a conversion tool for .docx.
+- **Claude**: Can't process audio files directly. May output markdown; use a conversion tool for .docx.
 - **GPT**: With file output enabled, can generate .docx directly. Can also process audio via Advanced Voice or uploaded files.
 
 ## Notes
